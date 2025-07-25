@@ -9,7 +9,7 @@
 ---
 
 > **NOTE:**  
-> You are viewing a *buildout/development branch*.  
+> You are viewing a personal staging of the site before it will go live.   
 > Content here is **not yet live or canonical** unless mirrored in `/main`.  
 > For the authoritative site and documentation, see the [`/main` branch](https://github.com/BJL13-Enterprise-Solutions/Org-Website/tree/main).
 
